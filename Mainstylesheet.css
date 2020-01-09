@@ -48,10 +48,5 @@ body{
 }
 
 .visuals{
-    width: 800px;
-    max-width: 80%;
-}
-
-.holder{
-
+    box-sizing: ;
 }
