@@ -12,7 +12,12 @@ function createImageElement() {
 function nextImage(x) {
   usedImage = image1;
 }
+ function clickAction(x){
+   switch(x){
+     case document.getElementById()
+   }
 
+ }
 let state = {}
 
 function startGame() {
