@@ -15,17 +15,25 @@
     
     <title>bunny game</title>
 </head>
-<body onload="createImageElement(this)">
-    <div id='visuals'><!--have to look how to make the visuals working-->
+<body>
+
+  <div class=col-12 style="padding-left: 10%; padding-right: 10%; margin-left: 0%; margin-right: 0%;">
+
+    <div class=col-10>
+      <div class='center'><!--have to look how to make the visuals working-->
+          <img src="./Afbeeldingen/Farm house demo.jpg" width="100%" style="margin-left: 10%; ">
+      </div>
     </div>
 
-    <div class="container"><!---->
-      <div id="text">Text</div>
-      <div id="option-buttons" class="btn-grid">
-        <button onclick="nextImage(this)" class="btn">Option 1</button>
+      <div class=col-10  style="padding-left: 10%; padding-right: 10%; margin-left: 8%; margin-right: 0%;">
+      <div class="container" style="margin-top: 2%;"><!---->
+        <div id="text">Text</div>
+        <div id="option-buttons" class="btn-grid">
+          <button onclick="nextImage(this)" class="btn">Option 1</button>
         <button onclick="nextImage(this)" class="btn">Option 2</button>
         <button onclick="nextImage(this)" class="btn">Option 3</button>
         <button onclick="nextImage(this)" class="btn">Option 4</button>
+        </div>
       </div>
     </div>
   </body>
