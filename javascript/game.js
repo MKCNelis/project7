@@ -44,7 +44,6 @@ const textNodes = [
   {
     id: 1,
     text: 'You wake up in a strange place and you see a jar of blue goo near you.',
-    outputTekst.innerHTML = "<img src="visuals\Sprite_line_bunny_basic.png">"
     options: [
       {
         text: 'Take the goo',
