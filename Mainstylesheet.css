@@ -2,3 +2,10 @@
     created: 13-dec-2019, 11:31
     author : MaikelNelis
 */
+
+
+
+.boxed {
+    border: 1px solid green ;
+    padding: 20px;
+  }
