@@ -47,6 +47,7 @@ body{
     border-color: yellow;
 }
 .center{
-    position: relative;
+    padding-right: 5%;
+    
 }
 
