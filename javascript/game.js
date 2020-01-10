@@ -17,7 +17,7 @@ function nextImage(x) {
 let state = {}
 
 function startGame() {
-  state = {}
+  state = {}eq
   showTextNode(1)
 }
 
