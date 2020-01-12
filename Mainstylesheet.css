@@ -36,15 +36,19 @@ body{
 }
 
 .btn{
-    background-color: hsl(200, 100%, 50%);
-    border: 1px solid hsl(200, 100%, 30%);
+    background-color: hsl(199, 100%, 94%);
+    border: 1px solid hsl(0, 0%, 0%);
     border-radius: 5px;
     padding: 5px 10px;
-    color: white;
-    outline: none;
+    color: rgb(253, 245, 129);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    width: 100%;
+    
+    
 }
 .btn:hover{
-    border-color: yellow;
+    border-color: rgb(142, 150, 30);
+    cursor: grab;
 }
 
 .center {
