@@ -50,6 +50,10 @@ body{
     border-color: rgb(238, 255, 0);
     cursor: grab;
 }
+.center{
+    padding-right: 5%;
+    
+}
 
 .center {
     display: block;
