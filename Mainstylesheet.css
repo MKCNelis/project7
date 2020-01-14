@@ -16,7 +16,7 @@ body{
     align-items: center;
     width:100vw;
     height: 100vh;
-    background-image: url(./Afbeeldingen/Farm\ background2.gif);
+    background-image: url(./Afbeeldingen/Farm\ background2.gif); /*source of background: https://www.pinterest.com/pin/502010689708796565/ */
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -71,7 +71,7 @@ body{
 
   .background {
     
-      background-image: url("./Afbeeldingen/barn.png") ;
+      background-image: url("./Afbeeldingen/barn.png") ; 
       background-repeat: no-repeat;
       
       display: block;
