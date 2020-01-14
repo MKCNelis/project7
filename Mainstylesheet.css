@@ -73,7 +73,7 @@ body{
     
       background-image: url("./Afbeeldingen/barn.png") ;
       background-repeat: no-repeat;
-      /*
+      
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -82,5 +82,6 @@ body{
       width: 85%; 
       height: 150%; 
       margin-top: 1%;
-    */
+    
       }
+
