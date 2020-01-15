@@ -58,7 +58,7 @@ body{
     cursor: grab;
 }
 .center{
-    padding-right: 5%;
+    padding-right: auto;
     
 }
 
